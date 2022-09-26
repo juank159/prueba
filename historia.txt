@@ -2,3 +2,4 @@ MI HISTORIA
 mi nombre es juan carlos
 soy ingeniero de sistemas
 tengo 29 años
+quiero aprender python
